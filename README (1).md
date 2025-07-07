@@ -109,7 +109,7 @@ Pull requests welcome! For major changes, please open an issue first to discuss 
 
 ## 📬 Contact
 
-For questions, contact: [yourname@email.com]
+For questions, contact: saivamshiksheersagar@gmail.com
 
 ---
 
